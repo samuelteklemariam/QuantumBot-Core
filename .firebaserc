@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "default": "quantombot-core"
+  },
+  "targets": {},
+  "etags": {
+    "quantombot-core": {
+      "extensionInstances": {}
+    }
+  },
+  "dataconnectEmulatorConfig": {}
+}
