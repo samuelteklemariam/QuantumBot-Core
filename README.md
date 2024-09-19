@@ -9,7 +9,7 @@ and continuous dialogue, critical for the success of any collaborative endeavor.
 Quantum Chat Bot is a fast, reliable and scalable chat application that uses Firebase CLI and FireStore for backend functioning to ensure
 smooth and seamless interactions with firbase functions written in JS
 
-###Stages and steps of Development 
+### Stages and steps of Development 
 
 Firebase
 Firebase functions to handle the tasks of revieving messages and sending messages
