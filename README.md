@@ -11,19 +11,19 @@ smooth and seamless interactions with firbase functions written in JS
 
 ### Stages and steps of Development 
 
-Firebase
+#### Firebase
 Firebase functions to handle the tasks of revieving messages and sending messages
 
-Github
+#### Github
 Use Github to track changes and collaborate with other developers
 
-Firestore
+#### Firestore
 Stores all the chat data
 
-Firebase CLI
+#### Firebase CLI
 Firebase CLI to initialize our functions and connect them to our database
 
-Postman
+#### Postman
 Postman is used to test the API endpoints
 
 
